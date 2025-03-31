@@ -21,24 +21,24 @@ Tailwind CSS - Utility-first CSS framework
  <h3>Project Setup</h3>
 <br>
 <h3>Follow these steps to run the project locally:<h3>
-<br>
-1️. <h3> Clone the repository </h3>Clone the repository
+<br> 
+<h3>1. Clone the repository </h3>Clone the repository
  <br>
 bash <br>
 Copy <br>
 Edit <br>
-git clone https://github.com/2shubh/react-shopping-app.git <br>
-2️.<h3>Navigate to the project folder </h3> <br>
+git clone https://github.com/2shubh/react-shopping-app.git <br> 
+ <h3>2️. Navigate to the project folder </h3> <br>
 bash <br>
 Copy <br>
 Edit <br>
-cd react-shopping-app <br>
-3️.<h3>Install dependencies </h3>  <br>
+cd react-shopping-app <br> <br>
+ <h3>3️. Install dependencies </h3>  <br>
 bash <br>
 Copy <br>
 Edit <br>
 npm install <br>
-4️.<h3>Start the development server </h3>  <br>
+ <h3>4️. Start the development server </h3>  <br>
 bash <br>
 Copy <br>
 Edit <br>
