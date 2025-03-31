@@ -1,64 +1,69 @@
- React Shopping App
+<h1> React Shopping App   </h1> 
+ <br>
 A shopping app built with React and Redux that allows users to browse products, add them to a cart, and proceed with checkout. This project demonstrates state management, routing, and UI styling with modern technologies.
-
+<br>
 🚀 Features
 ✅ React for building the UI
 ✅ Redux for state management
 ✅ React Router for seamless navigation
 ✅ Tailwind CSS for modern and responsive styling
 
-🛠️ Technologies Used
+🛠️ <h3>Technologies Used</h3>
 React - Frontend JavaScript library
+<br>
 
 Redux - State management
-
+<br>
 React Router - Client-side navigation
-
+<br>
 Tailwind CSS - Utility-first CSS framework
+<br>
+ <h3>Project Setup</h3>
+<br>
+<h3>Follow these steps to run the project locally:<h3>
+<br>
+1️⃣<h3> Clone the repository </h3>Clone the repository
+ <br>
+bash <br>
+Copy <br>
+Edit <br>
+git clone https://github.com/2shubh/react-shopping-app.git <br>
+2️⃣<h3>Navigate to the project folder </h3> <br>
+bash <br>
+Copy <br>
+Edit <br>
+cd react-shopping-app <br>
+3️⃣<h3>Install dependencies </h3>  <br>
+bash <br>
+Copy <br>
+Edit <br>
+npm install <br>
+4️⃣<h3>Start the development server </h3>  <br>
+bash <br>
+Copy <br>
+Edit <br>
+npm start <br>
+Open http://localhost:3000 to view the app in your browser. <br>
 
-📂 Project Setup
-Follow these steps to run the project locally:
+<h3> Available Scripts </h3> <br>
+In the project directory, you can run: <br>
 
-1️⃣ Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/2shubh/react-shopping-app.git
-2️⃣ Navigate to the project folder
-bash
-Copy
-Edit
-cd react-shopping-app
-3️⃣ Install dependencies
-bash
-Copy
-Edit
-npm install
-4️⃣ Start the development server
-bash
-Copy
-Edit
-npm start
-Open http://localhost:3000 to view the app in your browser.
+npm start <br>
+Runs the app in development mode. The page reloads when changes are made.<br> 
 
-📦 Available Scripts
-In the project directory, you can run:
 
-▶️ npm start
-Runs the app in development mode. The page reloads when changes are made.
-
-🧪 npm test
+ npm test <br>
 Launches the test runner in interactive watch mode.
+<br>
 
-🔧 npm run build
-Builds the app for production. The output is stored in the build folder.
+ npm run build <br>
+Builds the app for production. The output is stored in the build folder. <br>
 
-⚠️ npm run eject
-Warning: This action is irreversible. It removes the default build setup and gives full control over configurations.
 
-🎯 Future Enhancements
-✅ Add user authentication
 
-✅ Improve UI with animations
+ <h3>Future Enhancements</h3> <br>
+✅ Add user authentication <br>
 
-✅ Implement payment integration
+✅ Improve UI with animations <br>
+
+✅ Implement payment integration <br>
